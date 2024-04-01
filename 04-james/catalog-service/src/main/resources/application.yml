@@ -11,3 +11,7 @@ spring:
   application.name: catalog-service
 
   output.ansi.enabled: always
+
+
+polar:
+  greeting: Welcome james!
